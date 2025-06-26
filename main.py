@@ -3,11 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 import time
 
-<<<<<<< HEAD
-# 🔐 LinkedIn credentials
-=======
+
 # LinkedIn credentials
->>>>>>> 4001eb77e78dd2e39f06efed9b3ae45b3c4eba34
 email = "test@mail.com"
 password = "test123"
 
