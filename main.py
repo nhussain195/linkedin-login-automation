@@ -4,8 +4,8 @@ from selenium.webdriver.chrome.service import Service
 import time
 
 # 🔐 LinkedIn credentials
-email = "Nasirhussain95@aol.com"
-password = "@Arain321"
+email = "test@mail.com"
+password = "test123"
 
 # 🔧 ChromeDriver path
 chrome_driver_path = "C:\\chromedriver\\chromedriver.exe"
